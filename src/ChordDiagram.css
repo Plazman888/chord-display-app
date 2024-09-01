@@ -1,0 +1,20 @@
+.chord-diagram {
+    font-family: Arial, sans-serif;
+  }
+  
+  .chord-diagram text {
+    font-size: 12px;
+  }
+  
+  .chord-diagram .barre {
+    stroke: #000;
+    stroke-width: 5px;
+  }
+  
+  .chord-diagram .fret-number {
+    font-size: 14px;
+  }
+  
+  .chord-diagram .tuning {
+    font-size: 11px;
+  }
